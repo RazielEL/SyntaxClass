@@ -10,6 +10,7 @@ public class HealthyDog {
     // if we know that value will stay same for all the objects of a class
     // we create a static variable for that why because
     // for calling that it is better to use class names because static stays same and it is better practice
+
     static int numberOfLegs; //static
     void eat(){
         int noOfTimes = 3; // local
