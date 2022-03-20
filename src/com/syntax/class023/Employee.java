@@ -1,4 +1,4 @@
-package com.syntax;
+package com.syntax.class023;
 
 interface Employee {
     void work();
