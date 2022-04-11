@@ -16,5 +16,55 @@
         <SOURCES />
       </library>
     </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MAVEN_REPOSITORY$/org/jetbrains/annotations/20.1.0/annotations-20.1.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://$USER_HOME$/Apache POI/lib" />
+          <root url="jar://$USER_HOME$/Apache POI/lib/commons-codec-1.15.jar!/" />
+          <root url="jar://$USER_HOME$/Apache POI/lib/commons-collections4-4.4.jar!/" />
+          <root url="jar://$USER_HOME$/Apache POI/lib/commons-io-2.11.0.jar!/" />
+          <root url="jar://$USER_HOME$/Apache POI/lib/commons-math3-3.6.1.jar!/" />
+          <root url="jar://$USER_HOME$/Apache POI/lib/log4j-api-2.17.2.jar!/" />
+          <root url="jar://$USER_HOME$/Apache POI/lib/SparseBitSet-1.2.jar!/" />
+          <root url="file://$USER_HOME$/Apache POI/ooxml-lib" />
+          <root url="jar://$USER_HOME$/Apache POI/ooxml-lib/commons-compress-1.21.jar!/" />
+          <root url="jar://$USER_HOME$/Apache POI/ooxml-lib/commons-logging-1.2.jar!/" />
+          <root url="jar://$USER_HOME$/Apache POI/ooxml-lib/curvesapi-1.07.jar!/" />
+          <root url="jar://$USER_HOME$/Apache POI/ooxml-lib/slf4j-api-1.7.36.jar!/" />
+          <root url="jar://$USER_HOME$/Apache POI/ooxml-lib/xmlbeans-5.0.3.jar!/" />
+          <root url="jar://$USER_HOME$/Apache POI/poi-5.2.2.jar!/" />
+          <root url="jar://$USER_HOME$/Apache POI/poi-examples-5.2.2.jar!/" />
+          <root url="jar://$USER_HOME$/Apache POI/poi-excelant-5.2.2.jar!/" />
+          <root url="jar://$USER_HOME$/Apache POI/poi-ooxml-5.2.2.jar!/" />
+          <root url="jar://$USER_HOME$/Apache POI/poi-ooxml-full-5.2.2.jar!/" />
+          <root url="jar://$USER_HOME$/Apache POI/poi-ooxml-lite-5.2.2.jar!/" />
+          <root url="jar://$USER_HOME$/Apache POI/poi-scratchpad-5.2.2.jar!/" />
+        </CLASSES>
+        <JAVADOC>
+          <root url="jar://$USER_HOME$/Apache POI/poi-javadoc-5.2.2.jar!/" />
+        </JAVADOC>
+        <SOURCES />
+        <jarDirectory url="file://$USER_HOME$/Apache POI/lib" recursive="false" />
+        <jarDirectory url="file://$USER_HOME$/Apache POI/ooxml-lib" recursive="false" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Apache POI/log4j-core-2.17.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
   </component>
 </module>
