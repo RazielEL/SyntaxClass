@@ -18,6 +18,7 @@ public class ApachePoi {
         String path = "/home/razz/Documents/test01.xlsx";
         FileInputStream fileInputStream = new FileInputStream(path);
         XSSFWorkbook xssfWorkbook = new XSSFWorkbook(fileInputStream); // musimy add exception
+
         Sheet sheet = xssfWorkbook.getSheet("Sheet1");
 
         Row row = sheet.getRow(0);

@@ -34,7 +34,7 @@ public class ExcelDemo4 {
             // getting all the rows except the header
             Row headerRow = sheet.getRow(i);
             for (int j = 0; j < row.getPhysicalNumberOfCells(); j++){
-// te dwie linijki to z poprzedniego byly, ignorowac, te nizej dwie
+                // te dwie linijki to z poprzedniego byly, ignorowac, te nizej dwie
                 Cell cell2 = sheet.getRow(i).getCell(j);
                 System.out.print(cell2 + " ");
                 // we use the header row to get the keys and the row to get the values from the data
