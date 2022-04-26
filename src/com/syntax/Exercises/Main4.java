@@ -32,7 +32,7 @@ class Main4 {
 
 
         System.out.println(countDuplicates(numbers));
-
+        System.out.println("Proba mikrofonu");
 
 
     }
